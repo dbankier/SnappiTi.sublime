@@ -1,0 +1,9 @@
+[
+  {
+     "keys": ["ctrl+shift+e"], "command": "snappiti"   
+  },
+  {
+     "keys": ["ctrl+shift+r"], "command": "snappiti_no_styling"   
+  }
+
+]

@@ -1,0 +1,9 @@
+[
+  {
+     "keys": ["ctrl+alt+e"], "command": "snappati"   
+  },
+  {
+     "keys": ["ctrl+alt+r"], "command": "snappati_no_styling"   
+  }
+
+]
