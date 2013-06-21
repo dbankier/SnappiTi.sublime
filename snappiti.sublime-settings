@@ -1,0 +1,9 @@
+{
+    /*
+        The directories you would like to include in $PATH environment variable.
+        Use this if your node installation is at a seperate location and getting errors such as `cannot find node executable`
+        ex)
+            "path": "/Users/yourname/nvm/v0.10.12/bin"
+    */
+    "path": "/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin"
+}
